@@ -1,0 +1,23 @@
+{
+  "name": "Expressjs-and-Heroku-app-",
+  "version": "1.0.0",
+  "description": "\"Edit me later\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kontonfon/Expressjs-and-Heroku-app-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kontonfon/Expressjs-and-Heroku-app-/issues"
+  },
+  "homepage": "https://github.com/kontonfon/Expressjs-and-Heroku-app-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
